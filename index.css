@@ -1,0 +1,10 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+.header .h2-header {
+    color: darkgoldenrod;
+    font-family: cursive;
+    text-align: center;
+}
